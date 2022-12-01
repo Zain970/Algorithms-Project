@@ -5,3 +5,4 @@
 5).git commit 
 6).git push origin master
 7).git pull <repoLink>
+8).git log
