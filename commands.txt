@@ -1,0 +1,7 @@
+1).git init
+2).git status
+3).git add -A 
+4).git add
+5).git commit 
+6).git push origin master
+7).git pull <repoLink>
